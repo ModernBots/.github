@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://user-images.githubusercontent.com/44733677/147395477-808568f5-b360-4005-af66-39d2fc6c5e9e.png" height="70"/>
     <h1>ModernBots</h1>
     <h3>Discord bots for the here and now.</h3>
      <a href="https://discord.gg/JRQ3HyD">
